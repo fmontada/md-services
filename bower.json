@@ -1,0 +1,25 @@
+{
+  "name": "md-services",
+  "version": "1.0.0",
+  "description": "Md Services Layer",
+  "main": "sevices.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "md"
+  ],
+  "authors": [
+    "francisco.montada@bydeluxe.com"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
